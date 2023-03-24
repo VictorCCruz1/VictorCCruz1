@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, meu nome é Victor! ᕦ༼ ◕‿◕ ༽ᕤ
+<br>
 
-<!--
-**VictorCCruz1/VictorCCruz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Victor Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCCruz1&show_icons=true&theme=radical)
+<br>
+<br>
 
-Here are some ideas to get you started:
+## Contatos:
+![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### victorcostacruz@id.uff.br
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+###  +55 21 96547-4727 
+<br>
+
+## Tencologias:
+
+[![Linguagens](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/VictorCCruz1/My-projects-)
+<br>
+<br>
+<br
+    >
+Atualmente buscando me desenvolver para conquistar minha primereira vaga como programador!
