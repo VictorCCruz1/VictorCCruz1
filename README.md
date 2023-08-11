@@ -1,7 +1,7 @@
 # Olá, meu nome é Victor! ᕦ༼ ◕‿◕ ༽ᕤ
 <br>
 
-![Victor Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCCruz1&show_icons=true&theme=radical)
+![Victor Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCCruz1&show_&theme=radical)
 <br>
 <br>
 
