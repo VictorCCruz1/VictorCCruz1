@@ -18,6 +18,7 @@
 
 [![Linguagens](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/VictorCCruz1/My-projects-)
 <br>
+[![Linguagens](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/VictorCCruz1/My-projects-)
 <br>
 <br
     >
