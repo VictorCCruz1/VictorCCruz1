@@ -22,4 +22,4 @@
 <br>
 <br
     >
-Atualmente buscando me desenvolver para conquistar minha primereira vaga como programador!
+Atualmente buscando me desenvolver e me tornar um profissional completo!
