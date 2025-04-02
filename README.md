@@ -15,10 +15,6 @@
 <br>
 [![Linguagens](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/VictorCCruz1/My-projects-)
 <br>
-[![Linguagens](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)](https://github.com/VictorCCruz1/My-projects-)
-<br>
-[![Linguagens](https://img.shields.io/badge/Data-structures-and-algorithms-3776AB?style=for-the-badge&logo=data structures and algorithms&logoColor=white)](https://github.com/VictorCCruz1/My-projects-)
-<br>
 <br>
     >
 Atualmente buscando me desenvolver e me tornar um profissional completo!
