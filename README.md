@@ -1,9 +1,4 @@
 # Olá, meu nome é Victor! ᕦ༼ ◕‿◕ ༽ᕤ
-<br>
-
-![Victor Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCCruz1&show_icons=true&theme=radical)
-<br>
-<br>
 
 ## Contatos:
 ![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
