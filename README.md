@@ -10,7 +10,7 @@
 <br>
 
 ## Tencologias:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCCruz1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCCruz1&layout=compact&cache_seconds=300)
 
 <div style="display: inline_block"><br>          
     <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
