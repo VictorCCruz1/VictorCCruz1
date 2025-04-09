@@ -2,19 +2,24 @@
 
 ## Contatos:
 ![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-### victorcostacruz@id.uff.br
+>victorcostacruz@id.uff.br
 <br>
 
 ![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-###  +55 21 96547-4727 
+>+55 21 96547-4727 
 <br>
 
 ## Tencologias:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCCruz1&layout=compact)
 
-[![Linguagens](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/VictorCCruz1/My-projects-)
+<div style="display: inline_block"><br>          
+    <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
+  
+</div>
 <br>
-[![Linguagens](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/VictorCCruz1/My-projects-)
 <br>
-<br>
-    >
-Atualmente buscando me desenvolver e me tornar um profissional completo!
+
+### Atualmente buscando me desenvolver e me tornar um profissional completo!
