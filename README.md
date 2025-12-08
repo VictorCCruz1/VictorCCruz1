@@ -20,8 +20,6 @@
   - "?v=" ajuda a bustar cache quando trocar algo (altere o número)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCCruz1&langs_count=10&cache_seconds=7200&v=3)
-
 <div style="display: inline_block"><br>              
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C">
     <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python">
