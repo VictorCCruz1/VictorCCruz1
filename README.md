@@ -31,4 +31,4 @@
 <br>
 <br>
 
-### Atualmente buscando me desenvolver e me tornar um desenvolvedor completo!
+### Busco me desenvolver e me tornar um desenvolvedor mais completo sempre!
